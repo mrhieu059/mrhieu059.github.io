@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-![My picture](/res/about_me_resized.jpg)
+![My picture](/res/about_me.jpg)
 ## Here is a small piece of myself.
 I'm 21 years old, a quite person. I tend to input more than output, listen more than speak.
 
