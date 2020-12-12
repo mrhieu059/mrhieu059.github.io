@@ -16,19 +16,6 @@ Mọi người có thể tìm hiểu thêm ở đây, [How Mastodon Works](https
 
 Và đó là lý do vì sao mà hôm nay mình quyết định rời Facebook. Vì mình muốn mọi người biết được là ngoài Microsoft, Google hay Facebook. Thì vẫn còn một cộng động __phi lợi nhuận__, luôn tạo ra những dịch vụ để cho các bạn sử dụng chứ không phải là họ đang sử dụng các bạn để tạo lợi nhuận. 
 
-Tuy nhiên nói là vậy chứ để làm thì rất khó tại vì các bạn sẽ phải đánh đổi sự tiện lợi để đối lấy quyền riêng tư cho chính các bạn. Này là ở các bạn chọn Ở đây mình xin liệt kê một số thay thế cho bạn nào quan tâm.
-
-```
-	 Windows - GNU/Linux, BSD
-	 Android - LineagOS
-	 Google Service - MicroG
-	 Google Search - Duckduckgo, Searx, Qwant, Starpage
-	 Gmail - Protonmail, Tutanota
-	 Youtube - LBRY, Odyssey, Newpipe
-	 Microsoft Office - Libreoffice
-	 Facebook - Mastodon
-	 Messenger - Element (Matrix), Signal, XMPP
-```
 
 Ở đây là thông tin của mình. Nếu muốn liên lạc với mình thì các bạn cứ say hi với mình qua các nền tảng mạng xã hội hay tin nhắn này nha, mình sẽ vui lắm ý. Còn bạn nào mà không thích sử dụng thì mình cũng hiểu thôi. Các bạn gửi mail say hi là mình là mình cũng vui rồi.
 
