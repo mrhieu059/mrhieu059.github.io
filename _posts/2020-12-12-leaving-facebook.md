@@ -12,7 +12,7 @@ Hôm qua mình tình cờ phát hiện ra mạng xã hội Mastodon, đây là m
 Để mình giải thích sơ cách hoạt động của Mastodon cho mọi người biết thêm.
 
 Đây là một mạng xã hội decentralize có nghĩa là nó không bị kiểm soát bởi một các nhân hay tổ chức nào cả, và ai cũng có thể tạo riêng sever cho mình. Và sever hoạt động dựa trên funding thay vì họ ngầm theo dõi các bạn rồi bán cho các bên thứ ba như Facebook đang làm để kiếm lợi nhuận. Thì Mastodon là mạng xã hội cho cộng đồng, được tạo ra vì cộng đồng nên họ có sự rõ ràng khi để mã nguồn và sever tồn tại được cũng là do cộng đồng (donation).  
-Mọi người có thể tìm hiểu thêm ở đây, [How Mastodon Works](https://www.youtube.com/watch?v=S57uhCQBEk0)
+Mọi người có thể tìm hiểu thêm ở đây, [How Mastodon Works](https://kevq.uk/how-does-mastodon-work/)
 
 Và đó là lý do vì sao mà hôm nay mình quyết định rời Facebook. Vì mình muốn mọi người biết được là ngoài Microsoft, Google hay Facebook. Thì vẫn còn một cộng động __phi lợi nhuận__, luôn tạo ra những dịch vụ để cho các bạn sử dụng chứ không phải là họ đang sử dụng các bạn để tạo lợi nhuận. 
 
