@@ -23,7 +23,7 @@ email: hieucao@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
         Sometimes a dumb person think they're smart. Sometime a smart person think they are dumb.
         I'm neither dumb nor smart. I'm myself :)
-baseurl: "/about" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mrhieu059.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  mrhieu059
