@@ -4,6 +4,7 @@ title: Gõ tiếng việt trên Linux
 categories: GNU Linux
 ---
 # Hướng dẫn gõ tiếng việt trên Linux bằng _Fcitx_
+Như mình biết thì cộng đồng Linux ngày càng được nhiều người biết đến, và một vấn đề mà các bạn mới chuyển sang Linux gặp phải đó là Linux không hỗ trợ gõ bộ gõ tích hợp sắn như Windows. Và điều này sẽ thật bất tiện nếu bạn nào hay nhắn tin, soạn thảo văn bản trên Linux và cần sử dụng tiếng việt. Thế nên là mình xin hướng dẫn các bạn cách cài đặt bộ gõ tiếng việt trên Linux.
 
 Để gõ được tiếng việt trên Linux thì theo mình biết là có 2 cách
 1. Sử dụng _Ibus_ (Ibus-unikey, Ibus-bamboo)
